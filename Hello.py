@@ -1,5 +1,3 @@
-import os
-os.system("clear")
 
 first_name="Datamites"
 City="PUNE"
@@ -10,6 +8,7 @@ Courses={
 4:"CDE"
 }
 
-name=True
 
-print(name)
+print("Hello")
+
+print("File Updated")
